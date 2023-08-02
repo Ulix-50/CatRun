@@ -1,0 +1,19 @@
+body
+{
+    background-color: #78DECD;
+    text-align: center;
+}
+
+.Titulo
+{
+    text-align: center;
+    color:   #DC83DE;
+    font-size: 36pt;
+    font-family: "Consolas", Verdana, "Arial Unicode", Times, 'Times New Roman', serif;
+}
+
+.Autoria
+{
+    font-size: 25pt;
+    font-family: "Consolas", Verdana, "Arial Unicode", Times, 'Times New Roman', serif;
+}

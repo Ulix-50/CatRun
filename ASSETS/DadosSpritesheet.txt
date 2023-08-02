@@ -1,0 +1,35 @@
+Parado:
+* frames: 20
+* Altura (Cada frame): 50
+* Largura (Cada frame): 57
+* frameRate: 10
+
+/* Contagem de frames feitas a partir do índice 0 do spritesheet */
+* Início dos frames voltados pra esquerda: 0
+* Fim dos frames voltados pra esquerda: 9
+* Início dos frames voltados pra direita: 10
+* Fim dos frames voltados pra direita: 19
+
+Andando:
+* frames: 20
+* Altura (Cada frame): 50
+* Largura (Cada frame): 57
+
+/* Contagem de frames feitas a partir do índice 0 do spritesheet */
+* Início frames voltados pra esquerda: 0
+* Fim frames voltados pra esquerda: 9
+* Início frames voltados pra direita: 10
+* Fim frames voltados pra direita: 19
+
+Pulando:
+* frames: 30
+* Altura (Cada frame): 50
+* Largura (Cada frame): 57
+
+/* Contagem de frames feitas a partir do índice 0 do spritesheet */
+* Início dos frames voltados pra esquerda: 0
+* Meio dos frames voltados pra esquerda (Início da descida): 7
+* Fim dos frames voltados pra esquerda: 14
+* Início dos frames voltados pra direita: 15
+* Meio dos frames voltados pra esquerda (Início da descida): 23 
+* Fim dos frames voltados pra direita: 29
