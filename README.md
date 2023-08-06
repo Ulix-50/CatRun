@@ -3,14 +3,14 @@
 # Cat Run 🍄🐈💨
 
 
-![Built with luv](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![Built with luv](https://badgen.net/static/Built%20With/%E2%9D%A4/pink)
 
-[![Phaser](https://img.shields.io/badge/Made_with-Phaser_3-9ac3ea)](https://phaser.io/)
+[![Phaser](https://img.shields.io/badge/Powered_by-Phaser_3-9ac3ea)](https://phaser.io/)
 
 ![Made with HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Made with CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![Made with JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
  			
 
-Cat Run é um jogo que consiste em uma gata (chamada Lia) tendo que pegar 3 cogumelos para atingir mais de 5 pontos.
+Cat Run é um jogo de navegador onde uma gata (chamada Lia) tem que pegar 3 cogumelos para atingir mais de 5 pontos.
 </div>
 
 ## Licença
@@ -98,7 +98,7 @@ _Caso você esteja tentando atualizar a página no_ `F5` ou `Ctrl + R` _e não f
 
  * Background: [FREE PLATFORMER GAME TILESET - gameart2d.com](https://www.gameart2d.com/free-platformer-game-tileset.html)
  * Música usada:
-    Título: [Mushrooms](https://freemusicarchive.org/music/Komiku/Captain_Glouglous_Incredible_Week_Soundtrack/bibliothque)   
+	 Título: [Mushrooms](https://freemusicarchive.org/music/Komiku/Captain_Glouglous_Incredible_Week_Soundtrack/bibliothque)   
 	  Artista: [Komiku](https://freemusicarchive.org/music/Komiku/)
 
 
